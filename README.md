@@ -12,7 +12,7 @@ To deploy this project to Gitpod, follow these steps:
 
 1. Click this link to deploy
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/SCHUEORG/SoulNFT)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/SoulNFT/SoulNFT)
 
 2. Import the RPC address given to you by GitPod into your MetaMask wallet
 
